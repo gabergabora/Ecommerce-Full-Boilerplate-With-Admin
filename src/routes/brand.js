@@ -7,7 +7,7 @@ const { isAuth} = require('../middlewares')
 const {
     showCart
 } = require('../controllers/cart')
-const {
+const {          
     isLocation
 } = require('../middlewares')
 
